@@ -5,11 +5,11 @@ var sounds = {};
 
 Game.loadAssets = function () {
     var loadSprite = function (sprite) {
-        return Game.loadSprite("../assets/sprites/" + sprite);
+        return Game.loadSprite("assets/sprites/" + sprite);
     };
 
      var loadSound = function (sound) {
-        return new Audio("../assets/sounds/" + sound);
+        return new Audio("assets/sounds/" + sound);
     };
 
     sprites.background = loadSprite("spr_background4.png");
