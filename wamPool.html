@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classic Pool Game</title>
+    <link rel="stylesheet" type="text/css" href="game-layout.css"/>
+    <script src="LAB.min.js"></script>
+    <script>
+        $LAB
+                .script('system/Keys.js').wait()
+                .script('system/Color.js').wait()
+                .script('geom/Vector2.js').wait()
+                .script('input/ButtonState.js').wait()
+                .script('input/Keyboard.js').wait()
+                .script('input/Mouse.js').wait()
+                .script('Canvas2D.js').wait()
+                .script('Score.js').wait()
+                .script('Ball.js').wait()
+                .script('Stick.js').wait()
+                .script('Player.js').wait()
+                .script('WamPoolPolicy.js').wait()
+                .script('WamPoolGameWorld.js').wait()
+                .script('Game.js')
+                .script('WamPool.js').wait(function () {
+                    Game.start('gameArea','screen', 1500, 825);
+                });
+
+    </script>
+</head>
+
+<body style = "background-color:black">
+<div id="gameArea">
+    <canvas id="screen" width="2000" height="1000"></canvas>
+</div>
+</body>
+</html>
