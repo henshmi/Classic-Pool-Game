@@ -56,8 +56,9 @@ WamPoolPolicy.prototype.checkColisionValidity = function(ball1,ball2){
 
     let currentPlayerColor = this.players[this.turn].color;
 
-    if(this.players[this.turn].matchScore === 7 &&
-       (ball1.color === Color.black || ball2.color === Color.black)){
+    if(this.players[this.turn].matchScore.value == 7 &&
+       (ball1.color == Color.black || ball2.color == Color.black)){
+        this.firstCollision = false;
         return;
        }
 
