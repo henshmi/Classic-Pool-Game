@@ -4,8 +4,6 @@ function Score(position){
     this.position = position;
     this.origin = new Vector2(47,82);
     this.value = 0;
-    this.shift = 0;
-    this.width = 54;
 }
 
 Score.prototype.reset = function(){
@@ -25,5 +23,4 @@ Score.prototype.drawLines = function (color) {
 
 Score.prototype.increment = function(){
     this.value++;
-    this.shift = (this.value%10)*this.width;
 };
