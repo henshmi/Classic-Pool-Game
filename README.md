@@ -1,5 +1,5 @@
 # Classic-Pool-Game
-© Chen Shmilovich - 2018.
+<small>© Chen Shmilovich - 2018.</small>
 
 Hello everyone!<br><br>
 The presented code is my first shot at building a javascript game.<br>
