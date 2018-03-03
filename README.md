@@ -1,7 +1,7 @@
 # Classic-Pool-Game
 © Chen Shmilovich - 2018.
 
-Hello everyone!<br>
+Hello everyone!<br><br>
 The presented code is my first shot at building a javascript game.<br>
 It is a two-players classic 8 ball pool game.
 
