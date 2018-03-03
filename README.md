@@ -1,15 +1,15 @@
 # Classic-Pool-Game
 © Chen Shmilovich - 2018.
 
-<h3> Hello everyone!<br>
+Hello everyone!<br>
 The presented code is my first shot at building a javascript game.<br>
-It is a two-players classic 8 ball pool game.</h3>
+It is a two-players classic 8 ball pool game.
 
-<h3>KEYS:</h3>
+<h3>Keys:</h3>
 * 'Q' : More shot power.
 * 'A' : Less shot power.
 
-<h3>MOUSE:</h3>
+<h3>Mouse:</h3>
 * Left click : shoot.
 * Aim shot by moving the mouse.
 
