@@ -11,7 +11,7 @@ It is a two-players classic 8 ball pool game.
 
 <h3>Mouse:</h3>
 * Left click : shoot.<br>
-* Aim shot by moving the mouse.<br>
+* Aim by moving the mouse.<br>
 
 <h3>Demo:</h3>
 https://henshmi.github.io/Classic-Pool-Game/
