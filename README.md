@@ -20,5 +20,7 @@ https://henshmi.github.io/Classic-Pool-Game/
 <h3>Credits:</h3>
 * Building JavaScript Games by Arjan Egges (Apress, 2014):<br>
   https://github.com/apress/building-javascript-games
+* LAB.js :<br>
+  https://github.com/getify/LABjs
 
 
