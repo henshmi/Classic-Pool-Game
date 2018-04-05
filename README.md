@@ -26,8 +26,8 @@ https://henshmi.github.io/Classic-Pool-Game/
   https://github.com/apress/building-javascript-games
   <br>
 * LAB.js :<br>
-  https://github.com/getify/LABjs <br>
-  
+  https://github.com/getify/LABjs
+  <br>
 * Music :<br>
   Bossa Antigua Kevin MacLeod (incompetech.com)<br>
   Licensed under Creative Commons: By Attribution 3.0 License<br>
