@@ -21,6 +21,9 @@ Have fun, and good luck!
 <h3>Demo:</h3>
 https://henshmi.github.io/Classic-Pool-Game/
 
+<h3>Screenshots:</h3>
+<img src="https://image.ibb.co/b9HT6x/screenshots.jpg" style="width: 10px;"></img>
+
 <h3>Credits:</h3>
 * Building JavaScript Games by Arjan Egges (Apress, 2014):<br>
   https://github.com/apress/building-javascript-games
