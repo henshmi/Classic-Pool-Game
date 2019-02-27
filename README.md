@@ -4,8 +4,10 @@
 
 <hr>
 
-**Typescript remake now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool) - 
+**Typescript remake now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool) -  
 **Same functionality with better and more readable code.**
+
+<hr>
 
 Hello everyone!<br><br>
 The presented code is my first shot at building a javascript game.<br>
