@@ -4,7 +4,7 @@
 
 <hr>
 
-**Typescript remake now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool)  
+**Typescript remake is now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool)  
 **Same functionality with better and more readable code.**
 
 <hr>
