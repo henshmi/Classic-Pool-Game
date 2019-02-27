@@ -1,9 +1,8 @@
 <h1>Classic-Pool-Game</h1>
 <small>© Chen Shmilovich - 2018.</small>
+<br>
+**Typescript remake now available** [here](https://github.com/henshmi/Classic-8-Ball-Pool) - **Same functionality with better and more readable code**
 <hr>
-
-*Typescript remake now available* [here](https://github.com/henshmi/Classic-8-Ball-Pool) -
-*Same functionality with better and more readable code*
 
 Hello everyone!<br><br>
 The presented code is my first shot at building a javascript game.<br>
